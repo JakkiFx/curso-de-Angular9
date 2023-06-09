@@ -1,0 +1,17 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta BIC Preta",
+        "price": 5.89
+    },
+    {
+        "id": 2,
+        "name": "Samsung A12",
+        "price": 1999.99
+    },
+    {
+        "id": 3,
+        "name": "Notebook Acer Slim",
+        "price": 4899.99
+    }]
+}
